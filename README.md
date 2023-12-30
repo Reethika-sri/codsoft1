@@ -26,4 +26,4 @@ Feel free to contribute by opening issues or creating pull requests. Your feedba
 
 # License:
 # Open Source:
-This project is licensed under the calc.py . See LICENSE.md for details.
+This project is licensed under the CodSoft . See LICENSE.md for details.
